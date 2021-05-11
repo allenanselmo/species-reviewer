@@ -43,6 +43,6 @@
   "dependencies": {
     "calcite-web": "github:Esri/calcite-web#v1.2.5",
     "esri-loader": "^2.6.0",
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   }
 }
